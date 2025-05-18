@@ -8,7 +8,6 @@
 - Tự động kiểm tra và xóa hàng khi đầy
 - Cập nhật và hiển thị điểm số theo thời gian thực
 - Quản lý điểm bằng `ScoreManager` sử dụng Singleton Pattern
-- Thiết kế tách biệt giữa logic trò chơi và giao diện hiển thị (Game vs Skin)
 
 ## Công nghệ sử dụng
 
